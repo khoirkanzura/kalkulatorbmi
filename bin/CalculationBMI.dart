@@ -11,6 +11,4 @@ void hitungBMI(double tinggiCm, double beratKg, List<Map<String, dynamic>> riway
     print("Error: Berat terlalu kecil untuk dihitung.");
     return;
   }
-
-  // (hitung BMI + kategori ditambahkan di branch selanjutnya)
 }
